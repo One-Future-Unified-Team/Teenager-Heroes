@@ -1,8 +1,9 @@
 <h1>Characters</h1>
 <p></p>
 <hr>
+<h3>Hu Jie（虎杰）</h3>
 <ul>
-  <li><h3>Name: Hu Jie</h3></li>
+  <li>Name: Hu Jie</li>
 <li>Gender: Male</li>
 <li>Age: 14</li>
 <li>Ethnicity: Chinese</li>
@@ -33,4 +34,24 @@
 <li>Shield, he could protect himself from attack by enemy and villains by hiding behind his shield.</li>
   </ul>
   </li>
+  </ul>
   <h3>Li Hui （丽惠）</h3>
+  <ul>
+    <li>Name: Li Hui</li>
+    <li>Gender: Female</li>
+    <li>Age: 14</li>
+    <li>Ethnicity: Chinese</li>
+  <li>Occupation: Heroes</li>
+  <li>Description: Li Hui, the older sister of Hu Jie. A shy but smart hero in the Teenager Heroes. </li>
+Personality: 
+Li Hui is smart, she solves any hard problem easily. 
+Li Hui is also shy, she is scared of most people that she meets. 
+Sweet and Careful, she could be careful about taking care of her younger brother. 
+Weakness:
+Shy, she is scared to face most enemies. She easily gets scared off by scary enemies. 
+Power
+Technology
+Computing, she could do some computing like setting up a computer, etc. She could set up a new computer to do stuff that she needs.
+Hacking, she could hack into other technology infrastructure and make it inaccessible or insecure software. 
+Gadget
+Bots, she has 2 bots accompanying her at all times that could help to carry stuff, defend her and etc. She could program the bots to do whatever she needs.
