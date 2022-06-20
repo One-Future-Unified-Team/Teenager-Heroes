@@ -1,9 +1,8 @@
 <h1>Characters</h1>
 <p></p>
 <hr>
-<h2>Hu Jie（虎杰)</h2>
 <ul>
-  <li>Name: Hu Jie</li>
+  <li><h3>Name: Hu Jie</h3></li>
 <li>Gender: Male</li>
 <li>Age: 14</li>
 <li>Ethnicity: Chinese</li>
