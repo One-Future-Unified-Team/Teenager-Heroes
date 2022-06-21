@@ -1,5 +1,5 @@
 <h1>Characters</h1>
-<p></p>
+<p>Teenager Heroes book series featured many characters across many stories and seasons. Teenager Heroes book series contains many awesome designed character developed by Teenager Heroes team.</p>
 <hr>
 <h3>Hu Jie（虎杰）</h3>
 <ul>
@@ -43,15 +43,31 @@
     <li>Ethnicity: Chinese</li>
   <li>Occupation: Heroes</li>
   <li>Description: Li Hui, the older sister of Hu Jie. A shy but smart hero in the Teenager Heroes. </li>
-Personality: 
-Li Hui is smart, she solves any hard problem easily. 
-Li Hui is also shy, she is scared of most people that she meets. 
-Sweet and Careful, she could be careful about taking care of her younger brother. 
-Weakness:
-Shy, she is scared to face most enemies. She easily gets scared off by scary enemies. 
-Power
-Technology
-Computing, she could do some computing like setting up a computer, etc. She could set up a new computer to do stuff that she needs.
-Hacking, she could hack into other technology infrastructure and make it inaccessible or insecure software. 
-Gadget
-Bots, she has 2 bots accompanying her at all times that could help to carry stuff, defend her and etc. She could program the bots to do whatever she needs.
+  <li>Personality: 
+    <ul>
+    <li>Li Hui is smart, she solves any hard problem easily.</li>
+    <li>Li Hui is also shy, she is scared of most people that she meets.</li>
+    <li>Sweet and Careful, she could be careful about taking care of her younger brother.</li>
+    </ul>
+  </li>
+  <li>Weakness:
+    <ul>
+    <li>Shy, she is scared to face most enemies. She easily gets scared off by scary enemies.</li>
+    </ul>
+  </li> 
+<li>Power
+  <ul>
+    <li>Technology
+      <ul>
+<li>Computing, she could do some computing like setting up a computer, etc. She could set up a new computer to do stuff that she needs.</li>
+<li>Hacking, she could hack into other technology infrastructure and make it inaccessible or insecure software.</li>
+      </ul>
+    </li>
+  </ul>
+  </li>
+<li>Gadget
+  <ul>
+<li>Bots, she has 2 bots accompanying her at all times that could help to carry stuff, defend her and etc. She could program the bots to do whatever she needs.</li>
+  </ul>
+  </li>
+  </ul>
