@@ -1,5 +1,5 @@
 <h1>Vehicles</h1>
-<p>Teenager Heroes </p>
+<p>Teenager Heroes book series contains many awesome vehicles too! Teenager Heroes book series featured many awesome vehicles developed by Teenager Heroes team for characters inside Teenager Heroes book series. </p>
 <hr>
 <h2>Hover Car</h2>
 <p>Hover Car is a vehicle owned by Li Hui and Hu Jie as a way to get around. It could fly around the city and even to outer space. The Hover Car was invented by Li Hui and Hu Jie when they were 11.</p>
