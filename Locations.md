@@ -1,5 +1,5 @@
 <h1>Locations</h1>
-<p>Teenager Heroes book series contains many awesome locations, developed and built by Teenager Heroes team. All locations listed here is premiered in many seasons of One Future Unified Team.</p>
+<p>Teenager Heroes book series contains many awesome locations, developed and built by Teenager Heroes team. All locations listed here are the primary locations premiered in many seasons of One Future Unified Team. We contains a list of all locations in Teenager Heroes here.</p>
 <hr>
 <h2>Perle</h2>
 <p>Perle is the hometown of Li Hui and Hu Jie, where they grew up. Perle is an advanced city. Perle is the main city in Teenager Heroes Season 1. Perle featured the best, cleanest environment. Perle is set in a place in the future.</p>
