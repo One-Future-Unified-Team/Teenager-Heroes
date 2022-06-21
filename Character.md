@@ -1,5 +1,5 @@
 <h1>Characters</h1>
-<p>Teenager Heroes book series featured many characters across many stories and seasons. Teenager Heroes book series contains many awesome designed character developed by Teenager Heroes team.</p>
+<p>Teenager Heroes book series featured many characters across many stories and seasons. Teenager Heroes book series contains many awesome designed character developed by Teenager Heroes team. All of our characters across all of Teenager Heroes stories is listed here:</p>
 <hr>
 <h3>Hu Jie（虎杰）</h3>
 <ul>
