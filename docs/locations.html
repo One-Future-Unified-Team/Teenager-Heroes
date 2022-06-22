@@ -1,1 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+  transition: background-color .5s;
+}
 
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: yellow;
+  display: block;
+  transition: 0.3s;
+  text-align: left;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+  text-align:center;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+<link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <h1 style="color:cyan;text-align:center;">Teenager Heroes</h1>
+  <a href="index.html"><i class='bx bx-home'></i> Home</a>
+  <a href="about.html"><i class='bx bxs-info-circle' ></i> About</a>
+  <a href="news.html"><i class='bx bx-news' ></i> News</a>
+  <a href="character.html"><i class='bx bx-male-female'></i> Character</a>
+  <a href="locations.html"><i class='bx bx-location-plus'></i> Locations</a>
+  <a href="story.html"><i class='bx bx-book' ></i> Story</a>
+  <a href="vehicles.html"><i class='bx bxs-plane-alt'></i> Vehicles</a>
+</div>
+
+<div id="main">
+<div style="border: 5px outset red;background-color:lightblue;color:blue;font-size:30px;text-align:left;width:100%;">
+<span style="cursor:pointer;;font-size:30px;" onclick="openNav()">&#9776;</span><span style="cursor:pointer;text-align:left;font-size:30px;" onclick="openNav()"></span>
+  <a href="https://www.facebook.com/TeenagerHeroes2022"><i class='bx bxl-facebook-square' style="font-size:30px;"></i></a>
+  <a href="https://twitter.com/teenagerheroes"><i class='bx bxl-twitter' style="font-size:30px;"></i></a>
+</div>
+<div style="text-align:center;color:green;">
+<h1>Locations</h1>
+<p>Teenager Heroes book series contains many awesome locations, developed and built by Teenager Heroes team. All locations listed here are the primary locations premiered in many seasons of One Future Unified Team. We contains a list of all locations in Teenager Heroes here.</p>
+<hr>
+<h2>Perle</h2>
+<p>Perle is the hometown of Li Hui and Hu Jie, where they grew up. Perle is an advanced city. Perle is the main city in Teenager Heroes Season 1. Perle featured the best, cleanest environment. Perle is set in a place in the future.</p>
+
+<h2>Places</h2>
+<ul>
+  <li>VRzoo: VRzoo is a zoo in Perle. It is a virtual reality zoo for visitors to see animals in the zoo using virtual reality.</li>
+  <li>VRmuseum: VRmuseum is a big museum in Perle. It is a virtual reality museum for everyone to visit the entire museum without walking and visiting everything on display using virtual reality.</li>
+  <li>VRmall: VRmall is a mega shopping mall in Perle. It is a virtual reality mall for everyone to visit and buy stuff. Visitors could use VR to visit the virtual reality mall to buy stuff.</li>
+  <li>Forest: Perle also has a mega forest too. Perle forest grows many types of trees, from blueberries to bananas. The mega forest also helps to keep the environment clean too.</li>
+  <li>VRschool: Perle also has a school too.  Perle children could attend the school to learn in virtual reality. Perle provides the best technology for students to study.</li>
+  <li>VRcinema: Perle has a cinema for all citizens too. Perle cinema lets all watchers watch a movie in virtual reality. Watchers could watch movies on VRcinema with their family and friends.</li>
+  <li>VRbank: Perle also has a bank too. VRbank lets everyone save money in the bank inside the virtual reality world. VRbank also lets everyone save money in the virtual reality bank too.</li>
+  <li>Peaceful Central（宁中）: Peaceful Central is the neighborhood where the twins home are and lives. Peaceful Central is a wonderful and clean neighborhood.</li>
+</ul>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+  document.body.style.backgroundColor = "white";
+}
+</script>
+   
+</body>
+</html> 
