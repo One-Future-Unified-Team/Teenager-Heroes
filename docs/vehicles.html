@@ -53,6 +53,48 @@ body {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+  
+  .collapsible {
+  background-color: #37f93e;
+  color: #f507bd;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  text-align: center;
+  background-color: #37f93e;
+  color: #f507bd;
+}
+  
+  .collapsible {
+  background-color: #37f93e;
+  color: #f507bd;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  text-align: center;
+  background-color: #37f93e;
+  color: #f507bd;
+}
 </style>
 <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
 </head>
@@ -80,7 +122,8 @@ body {
 <h1>Vehicles</h1>
 <p>Teenager Heroes book series contains many awesome vehicles too! Teenager Heroes book series featured many awesome vehicles developed by Teenager Heroes team for characters inside Teenager Heroes book series. </p>
 <hr>
-<h2>Hover Car</h2>
+<button type="button" class="collapsible">Hover Car</button>
+<div class="content">
 <p>Hover Car is a vehicle owned by Li Hui and Hu Jie as a way to get around. It could fly around the city and even to outer space. The Hover Car was invented by Li Hui and Hu Jie when they were 11.</p>
 
 <p>Hover Car could go underwater and fly to space. It could help Li Hui and Hu Jie go underwater in the city river to discover and stop villains. Hover Car offers many awesome features and abilities for Li Hui and Hu Jie. All the features are listed below:</p>
@@ -89,6 +132,8 @@ body {
 <li>Flying: Hover Car could fly around Perle, bringing Li Hui and Hu Jie to any place they want.</li>
 <li>Submarine: Hover Car could also go underwater like a submarine. The Hover Car could bring Li Hui and Hu Jie into the deepest place underwater.</li>
 <li>Speed: Hover Car could go super fast in the sky, underwater and on land to deliver Li Hui and Hu Jie to anywhere.</li>
+</ul>
+</div>
 </div>
 
 <script>
